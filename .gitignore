@@ -1,0 +1,13 @@
+.gradle
+build
+gradle
+gradlew*
+jniLibs
+libs
+out
+
+# IDEA project settings
+.idea
+*.ipr
+*.iws
+*.iml
